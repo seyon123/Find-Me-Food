@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FInd Me Food</string>
+    <string name="dine_in">Dine-In</string>
+    <string name="take_out">Take-Out</string>
+    <string name="so_you_re_looking_for_food_eh">So you\'re looking for food, Eh?</string>
+    <string name="anything_you_can_t_eat">Anything you can\'t eat?</string>
+    <string name="dairy">Dairy</string>
+    <string name="gluten">Gluten</string>
+    <string name="meat">Meat</string>
+    <string name="fish">Fish</string>
+    <string name="what_tingles_your_taste_buds">What tingles your taste buds?</string>
+    <string name="next"><![CDATA[Next >]]></string>
+    <string name="bike">Bike</string>
+    <string name="transit">Transit</string>
+    <string name="drive">Drive</string>
+    <string name="walk">Walk</string>
+    <string name="how_are_you_getting_there">How are you getting there?</string>
+    <string name="search_for_a_location">Search For A Location</string>
+    <string name="use_current_location">Use Current Location</string>
+    <string name="from_where">From Where?</string>
+    <string name="how_far_are_you_willing_to_journey">How far are you willing to journey?</string>
+    <string name="indecision_shall_exist_no_more">Indecision Shall Exist No More!</string>
+    <string name="finding_the_best_food_for_you">Finding the best food for you...</string>
+
+
+    <string name="google_maps_api">AIzaSyBE3zgLJ3y6lM8q8IoTt6L9Y6zEMXp5hyQ</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
