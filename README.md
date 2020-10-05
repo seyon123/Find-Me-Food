@@ -1,2 +1,4 @@
 # Find-Me-Food
- an app that chooses a reteraunt to eat at if you are looking to try something new
+An app that chooses a restaurant to eat at for you whether you are looking to try something new or just want to eat out.
+
+![Find Me Food](findmefood.png)
